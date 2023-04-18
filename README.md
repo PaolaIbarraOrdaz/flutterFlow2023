@@ -19,3 +19,15 @@ link -----------> https://app.flutterflow.io/project/act-5-navigation-bar-p2f87d
 
 # Actividad 6 Tabbar
 link -----------> https://app.flutterflow.io/project/act-6-tab-bar-yf39ns?tab=uiBuilder&page=HomePage
+
+# Actividad 7 UI-Y-layout-101
+link -----------> https://app.flutterflow.io/project/act7-u-i-ylayout-4q4wxf?tab=uiBuilder&page=HomePage
+
+# Actividad 8 tarjeta (CARD)
+link -----------> https://app.flutterflow.io/project/act8-card-tl7666?tab=uiBuilder&page=HomePage
+
+# Actividad 9 GridView
+link -----------> https://app.flutterflow.io/project/act9-grid-view-7m00j5?tab=uiBuilder&page=HomePage
+
+# Actividad 10 PageView
+link -----------> https://app.flutterflow.io/project/act10-page-view-2nghii?tab=uiBuilder&page=HomePage
